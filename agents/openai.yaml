@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cycling Community Humanizer"
+  short_description: "Experienced cycling community voice and corpus"
+  default_prompt: "Use $cycling-community-humanizer to rewrite this copy for experienced English-speaking cyclists without changing its facts."
